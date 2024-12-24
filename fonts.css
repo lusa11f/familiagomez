@@ -1,14 +1,14 @@
 @font-face {
     font-family: "ComicNeueSansID" ;
-    src: url('sources/fonts/ComicNeueSansID.ttf') format('truetype');
+    src: url('fonts/ComicNeueSansID.ttf') format('truetype');
 }
 
 @font-face {
     font-family:'Montserrat-Regular';
-    src: url('sources/fonts/Montserrat-Regular.ttf') format('truetype');
+    src: url('fonts/Montserrat-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family:'Countach';
-    src: url('sources/fonts/Countach.otf') format('opentype');
+    src: url('fonts/Countach.otf') format('opentype');
 }
